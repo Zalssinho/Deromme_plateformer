@@ -9,3 +9,10 @@
 - Création d'un portail entre les deux niveaux avec un matérial pour le visuel. 
 - Création d'un level Design de parcours + Labyrinthe. 
 - Je n'ai pas changé le charadesign du perso de base étant donné que de base je ne savais pas faire, j'ai quand même essayer avec mixamo/sketchfab et blender mais les tests ont été infructueux. 
+
+Update 14 Otobre 
+
+- Evolution du level Design pour le passer en TopDown vu de coté
+- Modification des énigmes en fonction du Topdown
+- Ajout d'un troisième Level pour rajouter une étapes dans l'ouverture de la porte principal
+- Modification des emplacements des clés et des boutons
